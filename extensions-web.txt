@@ -1,0 +1,15 @@
+.action
+.asp
+.aspx
+.do
+.htm
+.html
+.js
+.json
+.jsp
+.jspx
+.php
+.php5
+.phtml
+.txt
+.xml

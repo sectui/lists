@@ -1,0 +1,13 @@
+.1
+.backup
+.bak
+.bk
+.copy
+.old
+.orig
+.save
+.swo
+.swp
+.temp
+.tmp
+~

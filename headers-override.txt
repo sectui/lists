@@ -1,0 +1,11 @@
+X-Forwarded-Host
+X-Forwarded-Port
+X-Forwarded-Proto
+X-Forwarded-Scheme
+X-Host
+X-HTTP-Method
+X-HTTP-Method-Override
+X-Method-Override
+X-Original-URL
+X-Override-URL
+X-Rewrite-URL
